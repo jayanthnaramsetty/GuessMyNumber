@@ -14,7 +14,7 @@ import javax.swing.*;
  *
  * @author Jayanth Naramsetty
  */
-public class GuessingGame {
+public class GuessingGameJayanth {
 
     public static void main(String[] args) {
         // TODO: change computerNumber to secretNumber Hint: Right-click / Refactor / Rename
